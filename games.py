@@ -40,10 +40,10 @@ def banner():
 {biru} ║ {W}├┤ ├┬┘││││ │┌┴┬┘───{R}║ ╦{Y}├─┤│││{G}├┤ └─┐
 {biru} ╩ {W}└─┘┴└─┴ ┴└─┘┴ └─   {R}╚═╝{Y}┴ ┴┴ ┴{G}└─┘└─┘
 {abu}--------------------------------------
-      {putih}[{biru}•{putih}] {biru}Author {putih}: SanzzXD
-      {putih}[{biru}•{putih}] {biru}Youtube {putih}: SanzzXD
+      {putih}[{biru}•{putih}] {biru}Author {putih}: eabdalmufid
+      {putih}[{biru}•{putih}] {biru}Instagram {putih}: eabdalmufid_
 
-      {W}[{Y}•{W}] Ip Lu Nih Njing{R}:{Y} {ip}
+      {W}[{Y}•{W}] Ip Lu Nih Ngab{R}:{Y} {ip}
       {W}[{Y}•{W}] Waktu/Jam{R}:{Y} {localtime}
 """)
 
