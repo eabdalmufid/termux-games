@@ -55,7 +55,7 @@ def banner2():
 {W}[{biru}2{W}] {W}Games Bastet {W}({G}On{W})
 {W}[{biru}3{W}] {W}Games Greed {W}({G}On{W})
 {W}[{biru}4{W}] {W}Games Ninvaders {W}({G}On{W})
-{W}[{biru}5{W}] {W}Subscribe YT Gua Ngab {W}({G}On{W})
+{W}[{biru}5{W}] {W}Follow IG Gua Ngab {W}({G}On{W})
 """)
 
 def start():
@@ -75,6 +75,6 @@ def start():
         game()
         os.system("ninvaders")
     if pil == "5":
-        os.system("xdg-open https://youtube.com/channel/UCel8C59vmVfh54VXRF3BZ7Q")
+        os.system("xdg-open https://instagram.com/eabdalmufid_")
 
 start()
