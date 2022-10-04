@@ -1,4 +1,6 @@
-# Termux-Games
+
+<h2 align="center">Termux Games</h2>
+<br>
 Buat yang gabut ygy
 
 ```Kasih star juga gaes ✨```
