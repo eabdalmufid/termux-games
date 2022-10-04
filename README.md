@@ -1,7 +1,7 @@
 ## Termux-Games
 Buat yang gabut ygy
 
-### Command Termux
+#### Command Termux
 ```bash
 pkg install git 
 pkg install python
@@ -20,7 +20,7 @@ python games.py
 | **Ninvaders** |[✔️](https://github.com/eabdalmufid) |
 ---------
 
-## ```Let's Connect```
+#### ```Let's Connect```
 <p align="center">
 	<a href="https://github.com/eabdalmufid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/eabdalmufid_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
