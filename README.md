@@ -1,6 +1,5 @@
 
-<h2 align="center">Termux Games</h2>
-<br>
+<h1 align="center">Termux Games</h1>
 Buat yang gabut ygy
 
 ```Kasih star juga gaes ✨```
