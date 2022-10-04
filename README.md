@@ -31,4 +31,3 @@ python games.py
 	
 </p>
 
-<hr/>
