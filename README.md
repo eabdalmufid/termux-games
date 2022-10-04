@@ -15,7 +15,7 @@ python games.py
 | Menu Game | Check |
 |--------|--------|
 | **Bastet** |[✔️](https://github.com/eabdalmufid) |
-| **Nsnake** |[✔️](https://github.com/eabdalmufid) |
+| **Snake** |[✔️](https://github.com/eabdalmufid) |
 | **Greed** |[✔️](https://github.com/eabdalmufid) |
 | **Ninvaders** |[✔️](https://github.com/eabdalmufid) |
 ---------
