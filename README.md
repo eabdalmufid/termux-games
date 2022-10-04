@@ -1,6 +1,7 @@
 ## Termux-Games
 Buat yang gabut ygy
-Kasih star juga gaes
+
+```Kasih star juga gaes ✨```
 
 #### Command Termux
 ```bash
@@ -12,7 +13,7 @@ git clone https://github.com/eabdalmufid/Termux-Games
 cd Termux-Games
 python games.py
 ```
-#### Info 📍
+#### Info📍
 | Menu Game | Check |
 |--------|--------|
 | **Bastet** |[✔️](https://github.com/eabdalmufid) |
