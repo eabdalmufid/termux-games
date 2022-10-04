@@ -1,4 +1,4 @@
-## Termux-Games
+# Termux-Games
 Buat yang gabut ygy
 
 ```Kasih star juga gaes ✨```
